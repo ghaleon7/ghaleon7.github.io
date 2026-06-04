@@ -23,14 +23,14 @@ repository               : "ghaleon7/ghaleon7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "FranciscoAlbPicado_Photo (2).jpg"
   name             : "Francisco Albuquerque Picado"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Mathematician by training and by heart. Teaching mathematics to prepare the new generation."
+  location         : "Portugal"
+  employer         : "Saint Dominic's International School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fmapic@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ghaleon7"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,11 +66,11 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "franciscoalbpicado"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "copalta"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
