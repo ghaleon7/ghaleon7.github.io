@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+You may find my CV in English here: 
+Também podem encontrar o meu CV em Português aqui: [CV em Português aqui] /files/CV_FranAlbPicado(PT).pdf
+
+<!---
 {% include base_path %}
 
 Education
@@ -62,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
