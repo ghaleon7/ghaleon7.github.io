@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-You may find my CV in English here: 
-Também podem encontrar o meu CV em Português aqui: [CV em Português aqui] /files/CV_FranAlbPicado(PT).pdf
+* You may find my CV in English here: 
+* Também podem encontrar o meu CV em Português aqui: [CV em Português aqui] files/CV_FranAlbPicado(PT).pdf
 
 <!---
 {% include base_path %}
