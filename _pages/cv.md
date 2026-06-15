@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * You may find my CV in English here: [English CV here](https://ghaleon7.github.io/files/CV-FranAlbPicado[ENG].pdf)
-* Também podem encontrar o meu CV em Português aqui: [CV em Português aqui](https://ghaleon7.github.io/files/CV-FranAlbPicado[ENG].pdf)
+* Também podem encontrar o meu CV em Português aqui: [CV em Português aqui](https://ghaleon7.github.io/files/CV-FranAlbPicado[PT].pdf)
 
 <!---
 {% include base_path %}
