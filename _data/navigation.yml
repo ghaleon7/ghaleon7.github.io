@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "My Notebook"
+    url: /my-notebook/
 
-  - title: "Teaching"
+  - title: "Teaching and Tutoring"
     url: /teaching/  
 
   - title: "CV"
@@ -19,7 +19,8 @@ main:
     # url: files/CV_FranAlbPicado(PT).pdf
 
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: https://scholar.google.com/citations?user=xhoRXn0AAAAJ
 
   #- title: "Talks"
   #  url: /talks/    
