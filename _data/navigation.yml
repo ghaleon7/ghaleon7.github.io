@@ -9,7 +9,7 @@
 
 main:
   - title: "My Notebook"
-    url: /my-notebook/
+    url: /year-archive/
 
   - title: "Teaching and Tutoring"
     url: /teaching/  
