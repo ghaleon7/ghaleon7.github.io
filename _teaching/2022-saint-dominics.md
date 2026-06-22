@@ -2,9 +2,10 @@
 title: "Saint Dominic's International School"
 collection: teaching
 type: "Middle school and High school"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-saint-dominics
 venue: "Saint Dominic's International School"
-date: 2022-Present
+date: 2022-08-19
+years: 2022-Present
 location: "São Domingos de Rana, Portugal"
 ---
 
