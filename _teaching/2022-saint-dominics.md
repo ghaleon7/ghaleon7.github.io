@@ -1,5 +1,5 @@
 ---
-title: "Saint Dominic's International School"
+title: "My Teaching"
 collection: teaching
 type: "Middle school and High school"
 permalink: /teaching/2022-saint-dominics
@@ -8,6 +8,8 @@ date: 2022-08-19
 years: 2022-Present
 location: "São Domingos de Rana, Portugal"
 ---
+
+
 
 I joined Saint Dominic's International School in August of 2022, and have been here ever since. In this school, I have had teaching roles with the added responsability of being a form tutor in the school year of 2023-2024.
 
