@@ -11,16 +11,8 @@ main:
   - title: "My Notebook"
     url: /year-archive/
 
-  #- title: "Teaching and Tutoring"
-  #  url: /teaching/  
-
   - title: "Teaching and Tutoring"
-    url: /teaching/
-    children:
-      - title: "Teaching"
-        url: /teaching-experience/
-      - title: "Tutoring"
-        url: /tutoring-experience/
+    url: /teaching-tutoring/
 
   - title: "CV"
     url: /cv/
