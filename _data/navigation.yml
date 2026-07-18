@@ -17,7 +17,6 @@ main:
         url: /teaching-experience/
       - title: "Tutoring"
         url: /tutoring-experience/
-    url: /teaching-tutoring/
 
   - title: "CV"
     url: /cv/
