@@ -12,6 +12,11 @@ main:
   #  url: /year-archive/
 
   - title: "Teaching and Tutoring"
+    children:
+      - title: "Teaching"
+        url: /teaching/
+      - title: "Tutoring"
+        url: /tutoring/
     url: /teaching-tutoring/
 
   - title: "CV"
