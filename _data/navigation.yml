@@ -12,7 +12,7 @@ main:
   #  url: /year-archive/
 
   - title: "Teaching and Tutoring"
-    children:
+    multi:
       - title: "Teaching"
         url: /teaching-experience/
       - title: "Tutoring"
