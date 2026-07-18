@@ -12,6 +12,7 @@ main:
   #  url: /year-archive/
 
   - title: "Teaching and Tutoring"
+    url: /teaching-tutoring/
     multi:
       - title: "Teaching"
         url: /teaching-experience/

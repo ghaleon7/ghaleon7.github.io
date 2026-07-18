@@ -16,7 +16,7 @@
             {% endif %}
             {% if link.multi %}
               <li class="masthead__menu-item has-dropdown">
-                <a href="#" class="dropdown-toggle">
+                <a href="{{ domain }}{{ link.url }}" class="dropdown-toggle">
                   {{ link.title }}
                   <i class="fa-solid fa-caret-down"></i>
                 </a>
