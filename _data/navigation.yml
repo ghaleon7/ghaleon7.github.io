@@ -8,8 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "My Notebook"
-  #  url: /year-archive/
 
   - title: "Teaching and Tutoring"
     url: /teaching-tutoring/
@@ -26,7 +24,9 @@ main:
     # url: /publications/
     url: https://scholar.google.com/citations?user=xhoRXn0AAAAJ
 
-  
+  - title: "Notebook Ideas"
+    url: /year-archive/
+
   #- title: "Talks"
   #  url: /talks/    
     
