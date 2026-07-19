@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Francisco, welcome to my homepage. 
+Hello, I'm Francisco! Welcome to my homepage. 
 
-I am a Mathematics teacher based in Portugal, teaching IB DP and IB MYP Mathematics at Saint Dominic's International School.
+I am a Mathematics teacher based in Portugal. At the moment, I am teaching IB DP and IB MYP Mathematics at Saint Dominic's International School.
 Passionate about Mathematics, I love to teach it, to deepen my study of it and to be able to share it with everyone. 
-I also love to do research in my free time, especially in the areas of recreational mathematics and number theory. 
+I also take great pleasure in doing research in my free time, especially in the areas of recreational mathematics and number theory. 
 
-Besides mathematics, in my spare time, I love to play the piano and to compose music. You may find these songs on my SoundCloud page. 
-I also appreciate to learn languages and study Linguistics. 
+Besides mathematics, in my spare time, I play the piano and compose music. You may find these songs on my SoundCloud page. 
+I also enjoy learning languages and to study Linguistics. 
 
 
 <!---
